@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Embedded\n");
+    printf("Hello Embedded World\n");
     return 0;
 }
