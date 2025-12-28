@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("ammo nee amma goppade\n");
+    printf("aa vasi vasiii \n");
+    printf("dengesta dengesta!\n");
     return 0;
 }
