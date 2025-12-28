@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("aa vasi vasiii \n");
-    printf("dengesta dengesta!\n");
+    printf("amma mannu tinanga nenu akontino vithino, chudu noru aaa \n");
     return 0;
 }
